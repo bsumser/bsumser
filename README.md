@@ -1,4 +1,4 @@
-### Hi there 👋
+Computer Science/Mathematics focused student with interest in machine learning, digital signal processing, and game developement. Hobbies include music, building analog guitar pedals and mechanical keyboards.
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=bsumser&show_icons=true)
 
