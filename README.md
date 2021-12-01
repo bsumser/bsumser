@@ -2,6 +2,7 @@ Computer Science/Mathematics focused student with interest in machine learning, 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=bsumser&show_icons=true)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bsumser&theme=blue-green)
+![GitHub Contributors Image](https://contrib.rocks/image?repo=bsumser/fourierTransformer)
 
 <!--
 **bsumser/bsumser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
