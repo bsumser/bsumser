@@ -1,10 +1,9 @@
 Computer Science/Mathematics focused student with interest in machine learning, digital signal processing, and game developement. Hobbies include music, building analog guitar pedals and mechanical keyboards.
 
-<p align="center">
+<p align="left">
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=bsumser&show_icons=true">
 </p>
-
-<p align="center">
+<p align="right">
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsumser&theme=blue-green">
 </p>
 
