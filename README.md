@@ -1,7 +1,7 @@
 Computer Science/Mathematics focused student with interest in machine learning, digital signal processing, and game developement. Hobbies include music, building analog guitar pedals and mechanical keyboards.
 
-<img align ="left" img width="415" height="270" src="https://github-readme-stats.vercel.app/api?username=bsumser&show_icons=true&theme=gruvbox">
-<img align = "right" img width="415" height="270" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsumser&theme=gruvbox">
+<img align ="left" img width="390" height="255" src="https://github-readme-stats.vercel.app/api?username=bsumser&show_icons=true&theme=gruvbox">
+<img align = "right" img width="390" height="255" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsumser&theme=gruvbox">
 
 <!--
 **bsumser/bsumser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
