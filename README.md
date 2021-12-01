@@ -9,7 +9,7 @@ Computer Science/Mathematics focused student with interest in machine learning, 
 </p>
 
 <p align="center">
-  <img width="460" height="300" src="https://contrib.rocks/image?repo=bsumser/fourierTransformer">
+  <src="https://contrib.rocks/image?repo=bsumser/fourierTransformer">
 </p>
 
 <!--
