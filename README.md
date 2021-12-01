@@ -4,7 +4,9 @@ Computer Science/Mathematics focused student with interest in machine learning, 
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=bsumser&show_icons=true">
 </p>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=bsumser&show_icons=true)
+<p align="center">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsumser&theme=blue-green">
+</p>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bsumser&theme=blue-green)
 
