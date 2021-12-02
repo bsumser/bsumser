@@ -3,8 +3,6 @@ Computer Science/Mathematics focused student with interest in machine learning, 
 <img align ="left" img width="390" height="255" src="https://github-readme-stats.vercel.app/api?username=bsumser&show_icons=true&theme=gruvbox">
 <img align = "right" img width="390" height="255" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsumser&theme=gruvbox&hide=c#">
 
-![](https://img.shields.io/badge/stars%20⭐-12-yellow)
-
 <!--
 **bsumser/bsumser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
