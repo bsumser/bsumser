@@ -3,7 +3,7 @@ Computer Science/Mathematics focused student with interest in machine learning, 
 <img align ="left" img width="350" height="228" src="https://github-readme-stats.vercel.app/api?username=bsumser&show_icons=true&theme=gruvbox">
 <img align = "right" img width="350" height="228" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsumser&theme=gruvbox&layout=compact">
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/bsumser)](https://leetcode.com/bsumser?cache=0)
+![LeetCode Stats](https://leetcard.jacoblin.cool/bsumser?cache=0&theme=dark&font=Source%20Code%20Pro)
 
 <!--
 **bsumser/bsumser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
