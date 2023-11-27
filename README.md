@@ -1,7 +1,10 @@
 Computer Science/Mathematics focused student with interest in machine learning, digital signal processing, and game developement. Hobbies include music, building analog guitar pedals and mechanical keyboards.
 
 <img align ="left" img width="350" height="228" src="https://github-readme-stats.vercel.app/api?username=bsumser&show_icons=true&theme=gruvbox">
+
 <img align = "right" img width="350" height="228" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsumser&theme=gruvbox&layout=compact">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bsumser&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/bsumser?cache=0&theme=dark&font=Source%20Code%20Pro)
 
