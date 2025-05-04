@@ -1,6 +1,6 @@
 Computer Science/Mathematics focused student with interest in machine learning, digital signal processing, and game developement. Hobbies include music, building analog guitar pedals and mechanical keyboards.
 
-<img align = "right" img width="300" height="200" src="https://api.githubtrends.io/user/svg/bsumser/langs?time_range=one_year&use_percent=True&theme=classic">
+<img align = "middle" src="https://api.githubtrends.io/user/svg/bsumser/langs?time_range=one_year&use_percent=True&theme=classic">
 
 <!--
 **bsumser/bsumser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
